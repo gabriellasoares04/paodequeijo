@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "descricao": "Coca Cola",
+        "imagem": "../Dados/Images/cocacola.jpg",
+        "preco": 12.50
+    },
+    {
+        "id": 2,
+        "descricao": "Sprite",
+        "imagem": "../Dados/Images/sprite.jpeg",
+        "preco": 10.50
+    },
+    {
+        "id": 3,
+        "descricao": "Fanta Uva",
+        "imagem": "../Dados/Images/fantauva.webp",
+        "preco": 13.00
+    },
+    {
+        "id": 4,
+        "descricao": "Fanta Laranja",
+        "imagem": "../Dados/Images/fantalaranja.webp",
+        "preco": 13.00
+    },
+    {
+        "id": 5,
+        "descricao": "Guaraná Antártica",
+        "imagem": "../Dados/Images/guarana.webp",
+        "preco": 11.50
+    },
+    {
+        "id": 6,
+        "descricao": "Tubaína",
+        "imagem": "../Dados/Images/tubaina.webp",
+        "preco": 14.50
+    },
+    {
+        "id": 7,
+        "descricao": "Cini Framboesa",
+        "imagem": "../Dados/Images/ciniframb.webp",
+        "preco": 10.50
+    },
+    {
+        "id": 8,
+        "descricao": "Pepsi Twist",
+        "imagem": "../Dados/Images/pepsitwist.webp",
+        "preco": 13.00
+    },
+     {
+        "id": 9,
+        "descricao": "Coca Cola Zero",
+        "imagem": "../Dados/Images/cocazero.jpg",
+        "preco": 12.50
+    }
+]
